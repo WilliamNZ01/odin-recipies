@@ -2,6 +2,11 @@
     font-family: sans-serif;
 }
 
+body {
+    background-color: gray;
+    border: 10px solid yellow;
+}
+
 .main-body {
     margin: auto;
     background-color: black;
@@ -9,8 +14,20 @@
     text-align: center;
 }
 
-.main-tile {
-    font-size: 80px;
+.page-title {
+    font-size: 40px;
+}
+
+.sub-heading {
+    font-size: 20px;
+}
+
+.sub-heading.method {
+    text-align: left;
+}
+
+.method-content {
+    text-align: left;
 }
 
 .nav li{
