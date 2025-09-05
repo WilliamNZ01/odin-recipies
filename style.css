@@ -24,6 +24,7 @@ body {
 
 .sub-heading.method {
     text-align: left;
+    padding-left: 10px;
 }
 
 .method-content {
@@ -33,4 +34,10 @@ body {
 .nav li{
     display: inline;
     background-color: yellow;
+    padding: 5px;
+    border: solid gray 2px;
+}
+
+.description-text {
+    padding: 10px;
 }
